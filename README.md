@@ -47,7 +47,7 @@
 
 *   `sudo apt-get install build-essential`
 
-*   `sudo sh NVIDIA-Linux-x86_64-384.69.run —no-opengl-files`
+*   `sudo sh NVIDIA-Linux-x86_64-384.69.run —-no-opengl-files`
 
     *   **(very important)** `--no-opengl-files` flag will prevent NVIDIA driver from **destroying** you unity desktop (which will be installed later)
 
