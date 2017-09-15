@@ -57,7 +57,7 @@
 
 *   >WARNING: Nvidia-installer was forced to guess the X library path ‘usr/lib/’ and X module path ‘/usr/lib/xorg/modules’; these paths were not queryable from the system, If X fails to find the NVIDIA X driver module. Please install the ‘pkg-config’ utility and the X.Org SDK/development package for your distribution and reinstall the driver.
 
-    *   `OK`
+    *   `OK`
 
 *   >WARNING: Unable to find a suitable destination to install 32-bit compatibility libraries. Your system may not be set up for 32-bit compatibility. 32-bit compatibility files will not be installed; if you wish to install them, re-run the installation and set a valid directory with the --compat32-libdir option
 
