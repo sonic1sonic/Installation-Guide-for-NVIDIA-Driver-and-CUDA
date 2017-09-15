@@ -117,7 +117,7 @@
 
 *   `:wq`
 
-*   `source .bashrc` to reload .bashrc file
+*   `source ~/.bashrc` to reload .bashrc file
 
 *   execute `nvcc --version`, you should see your CUDA version information
 
