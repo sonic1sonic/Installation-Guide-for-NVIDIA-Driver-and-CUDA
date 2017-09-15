@@ -119,7 +119,7 @@
 
 *   `source .bashrc` to reload .bashrc file
 
-*   execute `nvcc --version`, you should see some information about your CUDA displayed
+*   execute `nvcc --version`, you should see your CUDA version information
 
 ## Install Desktop Environment (GUI)
 
